@@ -1,0 +1,7 @@
+This is a simple text document to get me used to using a text editor.
+I am using VIM since I am most familiar with this work.
+
+How did viewing FC between two versions of a file help you see the bug that was introduced?
+It is nice that the program highlights the exact differences between the original code and the second one. 
+This helps with error checking after commiting a large amount of changes. Although I find that an IDE
+would catch simple spelling errors.
